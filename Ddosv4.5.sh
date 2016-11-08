@@ -2577,15 +2577,15 @@ echo -e "
 |                                                                              |
 |                                                                              |
 |                                                                              |
-|                 User Name:          [   security    ]                        |
+|                 User Name:          [   Ennon4Hack    ]                        |
 |                                                                              |
 |                 Password:           [               ]                        |
 |                                                                              |
-|    My facebook: www.facebook.com/haking.cracking.tutorial                    |
+|    My facebook: https://www.facebook.com/Enn%C3%B2n4Hack-411137365598622/                    |
 |                                                                              |  
-|    My youtube channel: www.youtube.com/c/penetrationtestingwithddos          |
+|    My youtube channel: https://www.youtube.com/user/artese6          |
 |                                                                              |
-|    My website: kali-linux.co                                                 |
+|    My website: http://hackthisfree.forumfree.it/                                                 |
 |                                   [ OK ]                                     |
 |______________________________________________________________________________|
 \033[m                                        
@@ -2614,9 +2614,9 @@ case $menusel in
 		clear ;;
 
 	"Must View")
-		firefox https://www.facebook.com/haking.cracking.tutorial
-		firefox https://www.youtube.com/c/penetrationtestingwithddos
-		firefox http://kali-linux.co
+		firefox https://www.facebook.com/Enn%C3%B2n4Hack-411137365598622/
+		firefox https://www.youtube.com/user/artese6
+		firefox http://hackthisfree.forumfree.it/ 
 		pause
 		clear ;;
 	
