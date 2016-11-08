@@ -1,0 +1,3 @@
+cd Ddodv4.5-master
+chmod +x Ddosv4.5.sh
+./Ddosv4.5.sh
